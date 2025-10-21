@@ -10,9 +10,9 @@ This repository documents my daily progress as I code, learn, and build with Pyt
 - Document my journey for accountability and growth  
 
 ## Progress
-| Day | Project Name 
-|-----|--------|------|
-| 1 | Band Name Generator 
+| Day | Project Name |
+|-----|--------------|
+| 1 | Band Name Generator |
 
 ---
 
