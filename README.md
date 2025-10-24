@@ -14,6 +14,7 @@ This repository documents my daily progress as I code, learn, and build with Pyt
 |-----|--------------|
 | 1 | Band Name Generator |
 
+
 ---
 
 > “Discipline is choosing between what you want now and what you want most.”  
